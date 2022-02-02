@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Smart Class</title>
+    <title>Unity WebGL Player | Phibonacci</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -22,19 +22,19 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">Smart Class</div>
+        <div id="unity-build-title">Phibonacci</div>
       </div>
     </div>
     <script>
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/WGL.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WGL.data.gz",
-        frameworkUrl: buildUrl + "/WGL.framework.js.gz",
-        codeUrl: buildUrl + "/WGL.wasm.gz",
+        dataUrl: buildUrl + "/WGL.data",
+        frameworkUrl: buildUrl + "/WGL.framework.js",
+        codeUrl: buildUrl + "/WGL.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "PhiBonacci Solutions",
-        productName: "Smart Class",
+        productName: "Phibonacci",
         productVersion: "0.1",
       };
 
@@ -62,8 +62,8 @@
           mobileWarning.style.display = "none";
         }, 5000);
       } else {
-        canvas.style.width = "1280px";
-        canvas.style.height = "720px";
+        canvas.style.width = "960px";
+        canvas.style.height = "600px";
       }
       loadingBar.style.display = "block";
 
