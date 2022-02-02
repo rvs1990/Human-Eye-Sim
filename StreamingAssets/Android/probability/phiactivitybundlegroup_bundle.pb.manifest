@@ -1,0 +1,121 @@
+ManifestFileVersion: 0
+CRC: 4068364190
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2029158a87b87c4755fd04c535bc3989
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 44dc2b301b575eaca6704dd475f02f9e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c955b49c1bfc4b479c51001d9c0e662, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 716d5ef644b0618469834a698c2ce848, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86842297bad436944bdd17cb419b7257, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 196bb08d6c2d3c9499c04e1281fd4ad3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b0492e85e034e44ca2342dd73a6fc87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d217f8a2388a0f42a614b1119fadfcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: def8f671ba7114f4c9a43e7fc3a9cc66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4663adf16a34b5d4a9ce4770fdebb554, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d957de4941298ef479ccbea4d99156d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9208d52d75031704baef57fa7a34596f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48b8232293cb62546a71ec8d46052f45, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d16f15fa7ed65b4cb8e127d2bced5b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abca1294b75149344b1b66eaf93214f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 000813aa7abd2fb42a4807b9c076c96e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbf01d9b0f9e81a4b880a4238f40220c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83e1a321bb72fbe449167f10ee825561, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1695bc0b4f4a2f345bab69685f0e5f4c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e93be61a90869814ab48eb30250008f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: becf5f03fffee834795fcc83cf67d052, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6fe2bbe375faca49897281b88b26fcb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 042269c57614235438d6cdbb88c074bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71208c51cc139e64ca4172fa52bc212f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2941e58fb9bd64da26fbd5d3c010e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0dad3a6a7e3c8f94abed41833252654f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ceeae33e2470c44b95cff62e6066933, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Phibonacci/Production/Math/Topic Name/Prefab/athematic_progression.prefab
+Dependencies: []
